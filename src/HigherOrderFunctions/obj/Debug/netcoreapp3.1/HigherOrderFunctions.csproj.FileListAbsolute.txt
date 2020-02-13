@@ -1,0 +1,11 @@
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.exe
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.deps.json
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.runtimeconfig.json
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.runtimeconfig.dev.json
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.dll
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\bin\Debug\netcoreapp3.1\HigherOrderFunctions.pdb
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\obj\Debug\netcoreapp3.1\HigherOrderFunctions.csprojAssemblyReference.cache
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\obj\Debug\netcoreapp3.1\HigherOrderFunctions.AssemblyInfoInputs.cache
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\obj\Debug\netcoreapp3.1\HigherOrderFunctions.AssemblyInfo.cs
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\obj\Debug\netcoreapp3.1\HigherOrderFunctions.dll
+C:\2020\FunctionalProgrammingInC#\src\HigherOrderFunctions\obj\Debug\netcoreapp3.1\HigherOrderFunctions.pdb
